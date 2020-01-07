@@ -1,0 +1,6 @@
+click>=7.0
+bcolz>=1.2.0
+cx_Oracle>=7.3.0
+numpy>=1.16.3
+pandas>=0.24.0
+
