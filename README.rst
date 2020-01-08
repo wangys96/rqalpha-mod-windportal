@@ -2,12 +2,12 @@
 Windportal Mod
 ===============================
 
-RQAlpha 使用Wind数据服务门户作为数据源 Mod，用户接口采用原RQAlpha接口，安装即用。
+RQAlpha 使用Wind数据服务门户作为数据源 Mod，用户层接口仍保留原RQAlpha接口，安装即用。
 
 *Wind数据服务门户（俗称落地数据库）使用Oracle数据库，通过SQL进行查询。*
 
 
-开启或关闭增量运行 Mod
+开启或关闭WindPortal数据源 Mod
 ===============================
 
 ..  code-block:: bash
