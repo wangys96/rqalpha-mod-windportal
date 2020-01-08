@@ -1,5 +1,5 @@
 ===============================
-Windportal Mod
+WindPortal Mod
 ===============================
 
 RQAlpha 使用Wind数据服务门户作为数据源 Mod，用户层接口仍保留原RQAlpha接口，安装即用。
